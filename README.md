@@ -7,7 +7,7 @@ To take a dependency on this library, add the following to your dependencies vie
     "github": {
         "owner": "swernli",
         "repo": "MyQsLib",
-        "ref": "079750319581b4007342eddf46cdd36fb726849e"
+        "ref": "ce1f94ac71264c40dfdb449d67a1b69edc122873"
     }
 }
 ```
