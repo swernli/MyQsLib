@@ -2,7 +2,6 @@
     "author": "swernli",
     "license": "MIT",
     "files": [
-        "src/Main.qs",
         "src/Asserts.qs",
         "src/Test.qs"
     ]
